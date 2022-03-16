@@ -19,4 +19,4 @@ python3 hough_transform.py
 
 
 
-#### Python code translated from C++ example presented in CSUS EEE178-Intro to Machine Vision, 4a Hough Transforms and Fitting lecuture notes
+#### Python code translated from C++ example presented in CSUS EEE178-Intro to Machine Vision, 4a Hough Transforms and Fitting lecture notes
